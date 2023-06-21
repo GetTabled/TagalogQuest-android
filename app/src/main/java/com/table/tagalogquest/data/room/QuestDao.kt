@@ -5,6 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
+import com.table.tagalogquest.data.room.entities.Quest
 
 /*
     Data Access Object for the Quest entity
