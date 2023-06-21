@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import com.table.tagalogquest.data.room.entities.Quest
 
 private const val DB_NAME = "tagalog_quest.db"
 
