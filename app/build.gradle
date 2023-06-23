@@ -39,7 +39,7 @@ android {
         compose true // Enables Compose functionality
     }
     composeOptions {
-        kotlinCompilerExtensionVersion '1.4.6' // Kotlin version 1.8.20 required
+        kotlinCompilerExtensionVersion '1.4.7' // Kotlin version 1.8.21 required
     }
     packagingOptions {
         resources {
